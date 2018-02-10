@@ -1,6 +1,6 @@
 # Constitution
 
-> A command line interface for the U.S. Constitution! :flag_us:
+> A command line interface for the U.S. Constitution! :us:
 
 ## Installation
 
