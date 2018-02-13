@@ -1,3 +1,5 @@
+ARTICLE I
+
 {{ BEGIN Section_1 }}
 SECTION 1
 {{ BEGIN Section_1_Clause_1 }}
